@@ -1,0 +1,5 @@
+This is my first git exercise. 
+I will set  dummy text file here, and play with it.
+
+this is line number 1.
+
