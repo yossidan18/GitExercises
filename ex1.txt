@@ -5,4 +5,5 @@ this is line number 1.
 
 feature 1 : starting here
 some feature 1 added here.
-dummy conflict 1.
+my dummy change 2
+my dummy change 3
