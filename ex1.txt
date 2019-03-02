@@ -4,4 +4,4 @@ I will set  dummy text file here, and play with it.
 this is line number 1.
 
 feature 1 : starting here
-some feature 1 added...!
+some feature 1 added here.
